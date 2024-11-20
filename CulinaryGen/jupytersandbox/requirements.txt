@@ -1,0 +1,8 @@
+transformers==4.39.3
+tf-keras
+tensorflow
+pandas
+seaborn
+huggingface_hub
+ipywidgets
+
